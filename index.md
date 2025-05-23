@@ -8,8 +8,7 @@ I specialize in *React, **Tailwind CSS, and **Framer Motion*, and love turning c
 ## Skills
 
 - *Frontend*: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js
-- *Backend*: JavaScript, TypeScript, Next.js, Express Js, Mongo DB
-- *Animation*: Framer Motion, GSAP Animations, CSS Transitions
+- *Animation*: Framer Motion, CSS Transitions
 - *Tooling*: Vite, Webpack, Git, GitHub, VS Code
 - *Design*: Figma, Adobe XD, UI/UX Principles
 - *Deployment*: Vercel, Netlify, GitHub Pages
